@@ -1,2 +1,6 @@
 # MK-Al
 TUGAS UAS KECERDASAN BUATAN
+
+Nama  : Ekawati
+Nim   : 2015141683
+Kelas : 07TPLE003 ( V.617 )
